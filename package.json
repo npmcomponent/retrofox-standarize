@@ -1,16 +1,10 @@
 {
-  "name": "standarize-component",
-  "author": "Damian Suarez <rdsuarez@gmail.com>",
+  "name": "retrofox-standarize",
+  "description": "Standarize a string",
   "version": "0.1.2",
-  "dependencies": {
-  },
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "standarize/index.js": "index.js"
-    }
-  }
+  "keywords": [
+    "string",
+    "standarize"
+  ],
+  "dependencies": {}
 }
